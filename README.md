@@ -6,6 +6,15 @@ I started building Invoice WiseManagement in 2015. It was hosted at www.lotfar k
 Invoice Wise Management is a web-based invoicing application implement with Laravel, Angular Material framework. It also uses JavaScript and JQuery and MySql database. Invoice Wise Management will give you the opportunity to create custom invoices and send them to your clients directly, it will also help you in managing and tracking your income and expenses by the detailed reports it produces.
 ## Screenshots and videos 
 Visit this page for a video of me showing off all of the features, and some technical explanation, as well as a bunch of high screenshots: http://tlotfarkaes/blog
+![clients](https://cloud.githubusercontent.com/assets/12828393/17498495/1747f7aa-5dc8-11e6-9e5f-67a245e437c0.PNG)
+![dashboard](https://cloud.githubusercontent.com/assets/12828393/17498497/17481334-5dc8-11e6-9014-2c9953f79038.PNG)
+![home](https://cloud.githubusercontent.com/assets/12828393/17498498/17489c5a-5dc8-11e6-956a-a710fe5f9192.PNG)
+![invoice preview](https://cloud.githubusercontent.com/assets/12828393/17498500/174a7c00-5dc8-11e6-83ab-fe3950764bc8.PNG)
+![invoice](https://cloud.githubusercontent.com/assets/12828393/17498496/17481262-5dc8-11e6-9cb8-842d698d0ff1.PNG)
+![reports](https://cloud.githubusercontent.com/assets/12828393/17498499/17498822-5dc8-11e6-9c57-51015fb4b3aa.PNG)
+![system setting](https://cloud.githubusercontent.com/assets/12828393/17498501/175ff9b8-5dc8-11e6-87ca-bff7d1637859.PNG)
+![system users](https://cloud.githubusercontent.com/assets/12828393/17498502/17601510-5dc8-11e6-830b-16dd4b6fa324.PNG)
+
 ## Feature
 -	Many users
 -	Configurable User Roles
