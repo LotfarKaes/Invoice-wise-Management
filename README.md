@@ -1,6 +1,6 @@
 # Invoice-wise-Management
 
-## Invoice Wise Management by Lotfar  kaes | ####Contact email: lotfar.kaes@gmail.com  | Skype: lotfa.kaes
+### Invoice Wise Management by Lotfar  kaes | email: lotfar.kaes@gmail.com  | Skype: lotfa.kaes
 
 I started building Invoice WiseManagement in 2015. It was hosted at www.lotfar kaes.com. Still now I am working on it and adding new features. 
 ## What is Invoice Wise Management
