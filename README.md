@@ -1,8 +1,5 @@
 # Invoice-wise-Management
 
-### Invoice Wise Management by Lotfar  kaes | email: lotfar.kaes@gmail.com  | Skype: lotfar.kaes
-
-I started building Invoice WiseManagement in 2015. It was hosted at www.lotfar kaes.com. Still now I am working on it and adding new features. 
 ## What is Invoice Wise Management
 Invoice Wise Management is a web-based invoicing application implement with Laravel, Angular Material framework. It also uses JavaScript and JQuery and MySql database. Invoice Wise Management will give you the opportunity to create custom invoices and send them to your clients directly, it will also help you in managing and tracking your income and expenses by the detailed reports it produces.
 ## Screenshots and videos 
