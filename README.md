@@ -1,6 +1,6 @@
 # Invoice-wise-Management
 
-## What is Invoice Wise Management
+## What is Invoice Wise Management?
 Invoice Wise Management is a web-based invoicing application implement with Laravel, Angular Material framework. It also uses JavaScript and JQuery and MySql database. Invoice Wise Management will give you the opportunity to create custom invoices and send them to your clients directly, it will also help you in managing and tracking your income and expenses by the detailed reports it produces.
 ## Screenshots and videos 
 Visit this page for a screenshots of me showing off all of the features, and some technical explanation, as well as a bunch of high screenshots:
